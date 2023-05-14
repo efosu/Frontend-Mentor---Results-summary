@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-!(assets/images/frontend_result_summary.png)
+![Screenshot](assets/images/frontend_result_summary.png)
 
 
 
@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/efosu/Frontend-Mentor---Results-summary)
-- Live Site URL: (https://efosu.github.io/Frontend-Mentor---Results-summary/)
+- Live Site URL: [Frontend Mentor](https://efosu.github.io/Frontend-Mentor---Results-summary/)
 
 ## My process
 
