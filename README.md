@@ -86,9 +86,8 @@ Html 5 accessibility and animations
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [CSS_ The Definitive Guide_ Visual Presentation for the Web by Eric A. Meyer & Estelle Wey] - This helped me for styling the layout with grid and flexbox. 
+- [Understanding ecmascript6 by Nicholas C. Zakas]-This helped me to use the fetch api for getting data.
 
 
 ## Author
@@ -98,5 +97,5 @@ Html 5 accessibility and animations
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Really thank Eric A. meyer , Estelle Wey and Nicholas Zakas with the contributors of frontend Mentor for providing useful contents and challenges for me.
 
