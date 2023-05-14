@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![../assets/images/frontend_result_summary.png](./screenshot.jpg)
+![/efosu/Frontend-Mentor---Results-summary/blob/main/assets/images/frontend_result_summary.png](./screenshot.jpg)
 
 
 
